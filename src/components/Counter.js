@@ -71,4 +71,5 @@ const Counter = () => {
 //     decrement: () => dispatch({ type: 'DECR' }),
 //   };
 // };
+// export default connect(mapStateToProps, mapDispatchToProps)Counter
 export default Counter;
